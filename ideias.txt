@@ -1,0 +1,19 @@
+1- Bingo
+ Fazer o sorteador de números (o pseudoaleatório é bom o bastante?)
+ Criar as cartelas
+ Prencher as cartelas
+ Determinar o vencedor
+ Numa versão somente a geração dos números é automática. Os usuários iriam jogar o jogo normalmente.
+ Na outra o preenchimento é instantâneo, cabe ao usuário somente ver o resultado do sorteio.
+
+2- Jogo Torre de Hanói
+
+3- Calculadora de expressões aritméticas
+
+4- Adição, subtração, multiplicação e divisão de frações
+
+5- Calculadora de MMC (Least commom multiple)
+
+6- Reduzir fração ao menor termo
+
+7- Jogo da forca duelo
